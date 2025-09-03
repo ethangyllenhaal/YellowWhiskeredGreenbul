@@ -9,7 +9,7 @@
 #SBATCH --mail-user=arrice@ttu.edu
 #SBATCH --mail-type=ALL
 
-workdir=/lustre/scratch/arrice/greenbul_introgression/ABBA_BABA2/Dstats_by_chrom_Dsuite
+workdir1=/lustre/scratch/arrice/greenbul_introgression/ABBA_BABA2/Dstats_by_chrom_Dsuite
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate phylostats_env
 

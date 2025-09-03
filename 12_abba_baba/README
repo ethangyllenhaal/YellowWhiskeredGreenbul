@@ -11,6 +11,7 @@ To do this...
 3. Run 12.2_Dsuite.sh
 4. Get an interactive session and enter the Dstats_by_chrom directory in ABBA_BABA1
 5. Run 12.3 to combine chromosome-level D stats
+6. Repeat Step 5 in the other directory with species_tree_2.nwk at the end
 6. Run 12.4 (a one-liner) to plot em. 
 7. Repeat steps 5 and 6 in the other directory (ABBA_BABA2) with the other species tree. 
 8. Export plots to local computer for viewing. 

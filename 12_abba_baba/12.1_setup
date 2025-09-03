@@ -1,9 +1,0 @@
-# Make the required directories for this stuff
-mkdir greenbul_introgression
-mkdir greenbul_introgression/ABBA_BABA
-mkdir greenbul_introgression/ABBA_BABA2
-
-# Import the appropriately-filtered vcfs into each of the ABBA_BABA folders. 
-# That is, 
-
-

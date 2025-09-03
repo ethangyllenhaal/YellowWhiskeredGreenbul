@@ -1,0 +1,14 @@
+# Make the required directories for this stuff
+mkdir greenbul_introgression
+mkdir greenbul_introgression/ABBA_BABA1
+mkdir greenbul_introgression/ABBA_BABA2
+mkdir greenbul_introgression/ABBA_BABA1/Dstats_by_chrom
+mkdir greenbul_introgression/ABBA_BABA2/Dstats_by_chrom
+
+
+# Import the appropriately-filtered, bgzipped, and indexed vcfs into each of the ABBA_BABA folders. 
+#### These should have been filtered from cleaned chromosome-level vcfs that have already been corrected with RagTags. 
+#### Ideally, they should have been filtered with a 34-array job that uses biallelic sites only, max mean depth at 20, and a scaffolds file to delimit chromosomes. 
+
+# Put scaffolds.txt into both ABBA_BABA directories
+# Put Greenbul_Sets_1.txt, Greenbul_Sets_2.txt, species_tree_1.nwk, and species_tree_2.nwk into the corresponding ABBA_BABA directories

@@ -18,5 +18,5 @@ chrom_array2=$( head -n${SLURM_ARRAY_TASK_ID} ${workdir2}/scaffolds.txt | tail -
 ~/Dsuite/Build/Dsuite Dtrios -n ${chrom_array1} -t ${workdir1}/species_tree_1.nwk ${chrom_array1}__ABBA_BABA.recode.vcf.gz \
 ${workdir1}/Greenbul_Sets_1.txt -o ${workdir1}/Dstats_by_chrom_Dsuite/Greenbul_Sets
 
-~/Dsuite/Build/Dsuite Dtrios -n ${chrom_array2} -t ${workdir2}/species_tree_1.nwk ${chrom_array2}__ABBA_BABA.recode.vcf.gz \
-${workdir2}/Greenbul_Sets_1.txt -o ${workdir2}/Dstats_by_chrom_Dsuite/Greenbul_Sets
+~/Dsuite/Build/Dsuite Dtrios -n ${chrom_array2} -t ${workdir2}/species_tree_2.nwk ${chrom_array2}__ABBA_BABA.recode.vcf.gz \
+${workdir2}/Greenbul_Sets_2.txt -o ${workdir2}/Dstats_by_chrom_Dsuite/Greenbul_Sets

@@ -1,1 +1,11 @@
+This series of steps will calculate average D statistics for each of 33 autosomes and 1 sex chromosome (Z), 
+then combine these together for a genome-wide D statistic and transform that into an f-branch metric, 
+which is like a D-statistic except that it also factors in gene flow between internal and external branches on a phylogeny. 
 
+This will be done for two datasets, the second of which excludes two samples from Northern Uganda. 
+
+To do this...
+
+1. Follow the instructions in 12.1_setup. 
+2. Run 12.2_Dsuite.sh
+3. 

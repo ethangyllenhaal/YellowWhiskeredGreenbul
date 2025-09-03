@@ -1,0 +1,7 @@
+cd greenbul_introgression/ABBA_BABA1/Dstats_by_chrom
+
+~/Dsuite/Build/Dsuite Fbranch ../species_tree_1.nwk out_whole_genome_combined_tree.txt > out_whole_genome_combined_Fbranch_NE.txt
+
+cd ../../ABBA_BABA2/Dstats_by_chrom
+
+~/Dsuite/Build/Dsuite Fbranch ../species_tree_2.nwk out_whole_genome_combined_tree.txt > out_whole_genome_combined_Fbranch_noNE.txt

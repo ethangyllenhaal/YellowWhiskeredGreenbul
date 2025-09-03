@@ -13,7 +13,7 @@ workdir=/lustre/scratch/arrice/greenbul_introgression/ABBA_BABA2/Dstats_by_chrom
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate phylostats_env
 
-chrom_array=$( head -n${SLURM_ARRAY_TASK_ID} /lustre/scratch/arrice/greenbul_introgression/ABBA_BABA2/scaffolds.txt | tail -n1 )
+chrom_array=$( head -n${SLURM_ARRAY_TASK_ID} scaffolds.txt | tail -n1 )
 
-~/Dsuite/Build/Dsuite Dtrios -n ${chrom_array} -t species_tree.nwk ${chrom_array}__ABBA_BABA.recode.vcf.gz \
-Greenbul_Sets.txt -o ${workdir}/Greenbul_Sets
+~/Dsuite/Build/Dsuite Dtrios -n ${chrom_array} -t species_tree_1.nwk ${chrom_array}__ABBA_BABA.recode.vcf.gz \
+Greenbul_Sets)_1.txt -o ${workdir}/Greenbul_Sets

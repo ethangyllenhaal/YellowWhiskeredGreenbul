@@ -6,6 +6,8 @@ This will be done for two datasets, the second of which excludes two samples fro
 
 To do this...
 
-1. Follow the instructions in 12.1_setup. 
-2. Run 12.2_Dsuite.sh
-3. Get an interactive session, enter the 
+1. Install Dsuite somewhere in your home directory (https://github.com/millanek/Dsuite) 
+2. Follow the instructions in 12.1_setup. 
+3. Run 12.2_Dsuite.sh
+4. Get an interactive session and enter the Dstats_by_chrom_Dsuite directory in ABBA_BABA1
+5. Run 12.3 to combine chromosome-level D stats

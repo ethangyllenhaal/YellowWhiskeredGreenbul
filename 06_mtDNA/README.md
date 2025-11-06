@@ -8,7 +8,9 @@ mv MitoFinder-master MitoFinder
 cd MitoFinder
 ./install.sh
 
-PATH/TO/MITOFINDER/mitofinder -h 
+PATH/TO/MITOFINDER/mitofinder -h
+
+## Check the website: https://github.com/RemiAllio/MitoFinder
 ```
 ### _Make a .txt file "mitofinder-cdm.txt" with each sample to run in MitoFinder_
 ```{r run MitoFinder, warning=FALSE, message=FALSE}
@@ -48,6 +50,8 @@ singularity run /symbiont/apps/mitofinder_v1.4.2.sif -j E_latirostris__UGA_Rwenz
 singularity run /symbiont/apps/mitofinder_v1.4.2.sif -j E_latirostris__UGA_Rwenzori__FMNH355311 -1 E_latirostris__UGA_Rwenzori__FMNH355311__R1.fastq.gz -2 E_latirostris__UGA_Rwenzori__FMNH355311__R2.fastq.gz -r E_virens_MG762099.1.gb -o 2 -p 20 -m 10
 singularity run /symbiont/apps/mitofinder_v1.4.2.sif -j E_virens__CMR_Nzimdipnenkum__FMNH511205 -1 E_virens__CMR_Nzimdipnenkum__FMNH511205__R1.fastq.gz -2 E_virens__CMR_Nzimdipnenkum__FMNH511205__R2.fastq.gz -r E_virens_MG762099.1.gb -o 2 -p 20 -m 10
 singularity run /symbiont/apps/mitofinder_v1.4.2.sif -j E_virens__COD_Uma__FMNH501571 -1 E_virens__COD_Uma__FMNH501571__R1.fastq.gz -2 E_virens__COD_Uma__FMNH501571__R2.fastq.gz -r E_virens_MG762099.1.gb -o 2 -p 20 -m 10
+
+## This .txt file uses as reference the Eurillas virens voucher MNHN ZO 2010-391 NADH dehydrogenase subunit 2 (ND2) gene, complete cds; mitochondrial. Available here: https://www.ncbi.nlm.nih.gov/nuccore/MG762099.1
 ```
 
 ### _Run MitoFinder_

@@ -1,0 +1,23 @@
+Order,ID#,Sample,Site,Cluster,Initial Sex,Depth Sex,mtDNA,Species,Country,State / Region,Latitude,Longitude,Altitude,Mean Depth
+36,FMNH346297,E_latirostris__BDI_Kibira__FMNH346297,8BDI_Kibira,East,Male,Male,East,Eurillas latirostris,Burundi,Muramvya,-3.19,29.56,2332,11.6803
+35,FMNH357966,E_latirostris__BDI_Kibira__FMNH357966,8BDI_Kibira,East,Male,Male,East,Eurillas latirostris,Burundi,Cibitoke,-3,29.38,1680,9.14084
+34,FMNH429729,E_latirostris__COD_Idjwi__FMNH429729,5COD_Idjwi,East,Male,Male,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2,29.03,1442,12.1002
+28,FMNH481070,E_latirostris__COD_KahuziBiega__FMNH481070,6COD_KahuziBiega,East,Male,Male,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2.32,28.74,2354,8.85641
+29,FMNH481071,E_latirostris__COD_KahuziBiega__FMNH481071,6COD_KahuziBiega,East,Female,Female,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2.32,28.74,2354,8.85121
+30,FMNH481072,E_latirostris__COD_KahuziBiega__FMNH481072,6COD_KahuziBiega,East,Male,Male,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2.32,28.74,2354,9.58493
+31,FMNH481083,E_latirostris__COD_Kangala__FMNH481083,7COD_Kangala,East,Female,Female,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2.98,28.9,2629,11.2728
+32,FMNH481084,E_latirostris__COD_Kangala__FMNH481084,7COD_Kangala,East,Female,Female,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2.98,28.9,2629,8.52917
+33,FMNH481085,E_latirostris__COD_Kangala__FMNH481085,7COD_Kangala,East,Male,Male,East,Eurillas latirostris,Democratic Republic Congo,South Kivu,-2.98,28.9,2629,9.60468
+48,FMNH489311,E_latirostris__UGA_AgoroAgu__FMNH489311,1UGA_AgoroAgu,Northeast,Unknown,Male,Northeast,Eurillas latirostris,Uganda,Northern Region,3.81,32.92,1980,7.81945
+49,FMNH489312,E_latirostris__UGA_AgoroAgu__FMNH489312,1UGA_AgoroAgu,Northeast,Female,Female,Northeast,Eurillas latirostris,Uganda,Northern Region,3.81,32.92,1980,9.55973
+40,FMNH384894,E_latirostris__UGA_Echuya__FMNH384894,4UGA_Echuya,East,Male,Female,East,Eurillas latirostris,Uganda,Southern,-1.23,29.78,2219,7.03255
+41,FMNH384895,E_latirostris__UGA_Echuya__FMNH384895,4UGA_Echuya,East,Female,Male,East,Eurillas latirostris,Uganda,Southern,-1.23,29.78,2219,6.81625
+42,FMNH384896,E_latirostris__UGA_Echuya__FMNH384896,4UGA_Echuya,East,Female,Female,East,Eurillas latirostris,Uganda,Southern,-1.23,29.78,2219,11.8183
+37,FMNH384909,E_latirostris__UGA_Nteko__FMNH384909,3UGA_Nteko,East,Female,Female,East,Eurillas latirostris,Uganda,Southern,-1.03,29.62,1527,12.2466
+38,FMNH384910,E_latirostris__UGA_Nteko__FMNH384910,3UGA_Nteko,East,Male,Female,East,Eurillas latirostris,Uganda,Southern,-1.03,29.62,1527,9.13262
+39,FMNH384911,E_latirostris__UGA_Nteko__FMNH384911,3UGA_Nteko,East,Male,Male,East,Eurillas latirostris,Uganda,Southern,-1.03,29.62,1527,10.3633
+43,FMNH355307,E_latirostris__UGA_Rwenzori__FMNH355307,2UGA_Rwenzori,East,Female,Female,East,Eurillas latirostris,Uganda,Western,0.39,30.03,2489,9.85033
+44,FMNH355308,E_latirostris__UGA_Rwenzori__FMNH355308,2UGA_Rwenzori,East,Female,Female,East,Eurillas latirostris,Uganda,Western,0.39,30.03,2489,12.9251
+45,FMNH355309,E_latirostris__UGA_Rwenzori__FMNH355309,2UGA_Rwenzori,East,Female,Female,East,Eurillas latirostris,Uganda,Western,0.39,30.03,2489,10.7791
+46,FMNH355310,E_latirostris__UGA_Rwenzori__FMNH355310,2UGA_Rwenzori,East,Female,Female,East,Eurillas latirostris,Uganda,Western,0.39,30.03,2489,10.5836
+47,FMNH355311,E_latirostris__UGA_Rwenzori__FMNH355311,2UGA_Rwenzori,East,Male,Female,East,Eurillas latirostris,Uganda,Western,0.39,30.03,2489,12.2401

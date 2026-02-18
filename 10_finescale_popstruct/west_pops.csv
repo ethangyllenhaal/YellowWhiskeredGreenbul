@@ -1,0 +1,6 @@
+Order,ID#,Sample,Site,Cluster,Initial Sex,Depth Sex,mtDNA,Species,Country,State / Region,Latitude,Longitude,Mean Depth
+4,FMNH396575,E_latirostris__GHA_AssinFoso__FMNH396575,GHA,West,Female,Female,West,Eurillas latirostris,Ghana,Central Region,5.33,-1.22,7.04561
+5,FMNH396576,E_latirostris__GHA_AssinFoso__FMNH396576,GHA,West,Female,Female,West,Eurillas latirostris,Ghana,Central Region,5.33,-1.22,10.122
+1,KU19685,E_latirostris__SLE_KambuiHills__KU19685,SLE,West,Male,Female,West,Eurillas latirostris,Sierra Leone,Eastern,8.01,-11.14,9.23492
+2,KU19697,E_latirostris__SLE_KambuiHills__KU19697,SLE,West,Female,Female,Central,Eurillas latirostris,Sierra Leone,Eastern,8.01,-11.14,8.72456
+3,KU19776,E_latirostris__SLE_KambuiHills__KU19776,SLE,West,Female,Female,West,Eurillas latirostris,Sierra Leone,Eastern,8.01,-11.14,9.71632

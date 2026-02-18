@@ -1,0 +1,23 @@
+Order,ID#,Sample,Site,Cluster,Initial Sex,Depth Sex,mtDNA,Species,Country,State / Region,Latitude,Longitude,Mean Depth
+22,FMNH429442,E_latirostris__CAF_Dzanga__FMNH429442,CAF_Dzanga,Central,Female,Female,Central,Eurillas latirostris,Central African Republic,Sangha-Mbaere,3.03,16.4,8.51712
+21,FMNH429445,E_latirostris__CAF_Dzanga__FMNH429445,CAF_Dzanga,Central,Male,Male,Central,Eurillas latirostris,Central African Republic,Sangha-Mbaere,3,16.18,6.75951
+20,FMNH429448,E_latirostris__CAF_Dzanga__FMNH429448,CAF_Dzanga,Central,Male,Male,Central,Eurillas latirostris,Central African Republic,Sangha-Mbaere,2.35,16.05,10.0375
+12,FMNH511209,E_latirostris__CMR_Nzimdipnenkum__FMNH511209,CMR_Nzimdipnenkum,Central,Male,Male,Central,Eurillas latirostris,Cameroon,Southwest Region,5,9.69,8.61607
+13,FMNH511210,E_latirostris__CMR_Nzimdipnenkum__FMNH511210,CMR_Nzimdipnenkum,Central,Female,Female,Central,Eurillas latirostris,Cameroon,Southwest Region,5,9.69,15.2098
+23,FMNH490182,E_latirostris__COD_Boende__FMNH490182,COD_C_Boende,Central,Female,Female,Central,Eurillas latirostris,Democratic Republic Congo,Equateur Prov.,-0.39,20.84,12.5373
+24,FMNH490193,E_latirostris__COD_Boende__FMNH490193,COD_C_Boende,Central,Unknown,Male,Northeast,Eurillas latirostris,Democratic Republic Congo,Equateur Prov.,-0.17,20.93,9.48008
+25,FMNH490213,E_latirostris__COD_Boende__FMNH490213,COD_C_Boende,Central,Female,Female,Northeast,Eurillas latirostris,Democratic Republic Congo,Equateur Prov.,-0.17,20.93,10.2141
+17,FMNH490024,E_latirostris__COD_Luki__FMNH490024,COD_SW_Luki,Central,Male,Male,Central,Eurillas latirostris,Democratic Republic Congo,Bas-Congo Prov.,-5.62,13.13,15.3061
+18,FMNH490025,E_latirostris__COD_Luki__FMNH490025,COD_SW_Luki,Central,Male,Male,Central,Eurillas latirostris,Democratic Republic Congo,Bas-Congo Prov.,-5.62,13.13,10.0953
+19,FMNH490026,E_latirostris__COD_Luki__FMNH490026,COD_SW_Luki,Central,Male,Male,Central,Eurillas latirostris,Democratic Republic Congo,Bas-Congo Prov.,-5.62,13.13,12.0594
+26,FMNH473401,E_latirostris__COD_Tschambi__FMNH473401,COD_C_Tschambi,Central,Male,Male,Northeast,Eurillas latirostris,Democratic Republic Congo,Maniema,-2.68,25.22,6.99012
+27,FMNH473402,E_latirostris__COD_Tschambi__FMNH473402,COD_C_Tschambi,Central,Male,Male,Northeast,Eurillas latirostris,Democratic Republic Congo,Maniema,-2.68,25.22,9.42964
+16,FMNH389319,E_latirostris__GAB_Doussala__FMNH389319,GAB_Doussala,Central,Unknown,Male,Central,Eurillas latirostris,Gabon,Woleu-Ntem,1.95,12.41,9.875
+15,FMNH396330,E_latirostris__GAB_Doussala__FMNH396330,GAB_Doussala,Central,Unknown,Female,Central,Eurillas latirostris,Gabon,Ogooue-Maritime,-2.28,10.48,8.40177
+14,FMNH396331,E_latirostris__GAB_Doussala__FMNH396331,GAB_Doussala,Central,Unknown,Male,Central,Eurillas latirostris,Gabon,Ogooue-Maritime,-2.22,10.38,9.14169
+6,KU32866,E_latirostris__GNQ_Moka__KU32866,GNQ_Moka,Central,Female,Female,Central,Eurillas latirostris,Equatorial Guinea,Bioko Sur,3.36,8.66,8.24595
+8,KU32908,E_latirostris__GNQ_Moka__KU32908,GNQ_Moka,Central,Male,Female,Central,Eurillas latirostris,Equatorial Guinea,Bioko Sur,3.37,8.67,10.8816
+7,KU32961,E_latirostris__GNQ_Moka__KU32961,GNQ_Moka,Central,Unknown,Male,Central,Eurillas latirostris,Equatorial Guinea,Bioko Sur,3.36,8.66,10.6289
+9,KU8325,E_latirostris__GNQ_MonteAlen__KU8325,GNQ_MonteAlen,Central,Male,Male,Central,Eurillas latirostris,Equatorial Guinea,Centro Sur,1.66,10.29,11.2741
+10,KU8326,E_latirostris__GNQ_MonteAlen__KU8326,GNQ_MonteAlen,Central,Male,Male,Central,Eurillas latirostris,Equatorial Guinea,Centro Sur,1.66,10.29,9.76703
+11,KU8332,E_latirostris__GNQ_MonteAlen__KU8332,GNQ_MonteAlen,Central,Female,Female,Central,Eurillas latirostris,Equatorial Guinea,Centro Sur,1.57,10.39,9.39835

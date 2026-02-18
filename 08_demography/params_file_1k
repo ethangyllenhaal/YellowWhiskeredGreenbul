@@ -1,0 +1,30 @@
+# Parameter file
+
+# Output and input
+Output directory: noZ_10pop_thin1k
+Input data: easysfs_noZ_thin1k/dadi/East-Central-West.sfs
+Population labels: West, Central, East
+
+# Settings
+Sequence length: 632399
+Linked SNP's: False
+
+# Main parameters
+Engine: moments
+Relative parameters: False
+# based on Smed estimate
+Mutation rate: 4.6e-09
+Time for generation: 3.27
+
+# History parameters
+Initial structure: [1,1,1]
+Final structure: [1,1,1]
+Symmetric migrations: False
+
+# Output params
+Model plot engine: moments
+Units of time in drawing: years
+
+# Run params
+Number of repeats: 20
+Number of processes: 20

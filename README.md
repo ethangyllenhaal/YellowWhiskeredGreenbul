@@ -1,5 +1,5 @@
 README by: Ethan F. Gyllenhaal
-Last updated: 17 February 2026
+Last updated: 26 February 2026
 
 # Yellow Whiskered Greenbul Phylogeography
 Repository containing code from multiple contributors to collaborative manuscript on phylogeography of a forest generalist. It is sectioned to multiple sub-directories corresponding to general analysis types, roughly in the order of the first draft methods section. Contributors have uploaded scripts they wrote to the GitHub. Contributors other than EFG are noted in this README as well. Note that many scripts are built on backbones made by Joe Manthey.
@@ -53,7 +53,7 @@ This section by Swapnil Boyane and María Tocora.
 
 ### 06_mtDNA
 
-This section by María Tocora.
+This section by María Tocora. It contains a markdown file designed for Github. It walks through the following steps: installing MitoFinder, making a text file of calls to run MitoFinder with singularity, and finally running that set of commands in parallel.
 
 ### 07_summary_stats
 
@@ -143,7 +143,21 @@ This section by Javier Colmenares.
 
 ### 12_abba_baba
 
-This section by Ari Rice.
+This section by Ari Rice. It contains its own README, but a summary of files is below.
+
+12.1_setup (interactive) - A set of bash commands for making subdirectories, includes instructions for adding other files to relevant directories.
+
+12.2_Dsuite.sh - Slurm array job for running ABBA/BABA per chromosome for each set of individuals.
+
+12.3_whole_genome_Dstats (interactive) - Short script used for combining individual chromosomes based on relevant species trees.
+
+12.4_plotting (interactive) - Shell script for running fbranch on both sets.
+
+Greenbul_Sets_\[1/2].txt - Population maps for running DSuite with (1) and without (2) the Northeast/NUganda population included.
+
+species_tree_\[1/2].nwk - Newick tree describing relationships for the two sets of populations described above.
+
+scaffolds.txt - List of scaffols used for this analysis.
 
 ### 13_treemix
 

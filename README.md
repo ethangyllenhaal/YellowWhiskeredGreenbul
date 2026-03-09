@@ -49,16 +49,17 @@ This section by Joe Manthey. Scripts can be found here: https://github.com/jdman
 
 ### 05_phylogenetics
 
-This section by Swapnil Boyane
+This section by Swapnil Boyane, see slightly more detailed notes in directory.
 
-1. Use 01_filter_phylo.sh to fileter the SNPs for phylogeny and allow variant and invariants sites with missing data.
-2. Open an R session and run 02_phylo_100kbp.r (configured for 100kbp windows). This creates the tree_100kbp/ directory containing the phylo100kbp_array.sh submission script.
-3. Keep  "create_fasta.r",  "create_fasta_from_vcf.r" in "tree_100kbp" directory.
-4. Submit "phylo100kbp_array.sh" to array job for running.
-5. Use 03_combine_trees_greeenbul.r to combine all individual RAxML_bipartitions.tre files into a single file. 
-6. Run 04_maximum_clade_credibility_tree (via DendroPy) to generate a Maximum Clade Credibility tree 
-7. 05_astral_tree : Generate a species tree using ASTRAL. 
-
+01_filter_phylo.sh - Slurm script to fileter the SNPs for phylogeny and allow variant and invariants sites with missing data.
+02_phylo_100kbp.r - R script (configured for 100kbp windows) used to make a directory containing the a submission script (phylo100kbp_array.sh) for making the windowed FASTAs and trees.
+create_fasta.r - R script used to set up files for making FASTA files from previously made VCFs.
+create_fasta_from_vcf.r - R script used to parse VCFs as input and output FASTAs.
+03_combine_trees_greeenbul.r - R script used to combine all individual RAxML_bipartitions.tre files into a single file. 
+04_maximum_clade_credibility_tree - DendroPy command used to generate a Maximum Clade Credibility tree.
+05_astral_tree - Astral command to generate a species tree.
+keeplist.txt - List of samples retained for phylogenetic anayses.
+scaffolds.txt - List of scaffolds retained for phylogenetic anayses.
 
 ### 06_mtDNA
 

@@ -1,5 +1,6 @@
 README by: Ethan F. Gyllenhaal
-Last updated: 26 February 2026
+
+Last updated: 9 March 2026
 
 # Yellow Whiskered Greenbul Phylogeography
 Repository containing code from multiple contributors to collaborative manuscript on phylogeography of a forest generalist. It is sectioned to multiple sub-directories corresponding to general analysis types, roughly in the order of the first draft methods section. Contributors have uploaded scripts they wrote to the GitHub. Contributors other than EFG are noted in this README as well. Note that many scripts are built on backbones made by Joe Manthey.

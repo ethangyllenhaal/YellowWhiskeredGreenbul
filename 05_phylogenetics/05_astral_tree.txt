@@ -1,0 +1,1 @@
+java -jar /lustre/work/sboyane/Astral/astral.5.7.8.jar -i greenbul100kbp.trees -o greenbul100kbp_astral.tre 2> greenbul100kbp_astral.log

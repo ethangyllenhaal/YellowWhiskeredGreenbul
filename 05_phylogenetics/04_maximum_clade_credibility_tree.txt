@@ -1,0 +1,1 @@
+sumtrees.py --output=greenbul100kbp.tre --min-clade-freq=0.05 greenbul100kbp.trees

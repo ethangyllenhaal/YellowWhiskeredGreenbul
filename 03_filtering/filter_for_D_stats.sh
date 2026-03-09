@@ -6,8 +6,6 @@
 #SBATCH --time=48:00:00
 #SBATCH --mem-per-cpu=8G
 #SBATCH --array=1-35
-#SBATCH --mail-user=arrice@ttu.edu
-#SBATCH --mail-type=ALL
 
 source ~/anaconda3/etc/profile.d/conda.sh
 conda activate vcftools
